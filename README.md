@@ -5,6 +5,7 @@ Le Bénin est un pays de l’Afrique de l’Ouest d’une superficie de 112 622 
 
 L’objectif de la présente étude est de déterminer les facteurs qui influencent le respect des quatre premières consultations prénatales par les femmes enceintes au Bénin. 
 
+Ce projet a été réalisé dans le cadre de mon mémoire de fin de licence en Statistique au Bénin.
 
 
 
